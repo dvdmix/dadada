@@ -1,0 +1,12 @@
+body {
+    background-image: url('lopata.png') ;
+    background-size: 1%;
+}
+p {
+    color:rgb(97, 212, 250);
+    font-size: 150%;
+}
+h1 {
+    color:red;
+    font-size:300%;
+}
